@@ -1,4 +1,4 @@
 # test-repo
 test repo for github practice
 
-README.md file was just edited manually. This file was modified locally
+This line was modified manually during conflicts resolution
